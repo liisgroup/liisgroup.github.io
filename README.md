@@ -5,22 +5,38 @@ The Logics, Interaction and Intelligent Systems (LIIS) Group investigates the be
 
 LIIS is formed by researchers and students of the Seccion de Ciencias de la Computacion of the Facultad de Matemática, Astronomía y Física, Universidad Nacional de Córdoba en Argentina.
 
-## Members ##
+## Researchers ##
 
 - [Carlos Areces](https://carlosareces.github.io/) (Director) 
-  - \[ [dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html) - 
-   [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6_iB7OAAMoF3Q_7de9gegZO3w0WcX-5b5wUWAU0i1DwETodQn0PMOCQZEkpQeTSZdGWSaF1P3-Dghrmzy90eoXP2YoWziYAb9DVrhzQzswuM6vKVs&user=Ku5jaRkAAAAJ) 
-\]
-- [Luciana Benotti](https://benotti.github.io/) (Co-Directrix) \[[dblp]() - [Google Scholar]()\]
-- Facundo Bustos (PhD Student) \[[dblp]() - [Google Scholar]()\]
-- Valentin Casano \[[dblp]() - [Google Scholar]()\]
-- Martin Dominguez \[[dblp]() - [Google Scholar]()\]
-- [Raul Fervari](https://sites.google.com/view/rfervari/home) \[[dblp]() - [Google Scholar]()\]
-- Guillaume Hoffmann \[[dblp]() - [Google Scholar]()\]
-- Marianela Morales (PhD Student) \[[dblp]() - [Google Scholar]()\]
-- Andres Saravia (PhD Student) \[[dblp]() - [Google Scholar]()\]
-- Nahuel Seiler (PhD Student) \[[dblp]() - [Google Scholar]()\]
-- [Beta Ziliani](https://people.mpi-sws.org/~beta/) \[[dblp]() - [Google Scholar]()\]
+  - \[[dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html) - 
+       [Google Scholar](https://scholar.google.com/citations?user=Ku5jaRkAAAAJ&hl=en) \]
+- [Luciana Benotti](https://benotti.github.io/) (Co-Directrix) 
+  - \[[dblp](https://dblp.uni-trier.de/pers/hd/b/Benotti:Luciana) - 
+      [Google Scholar](https://scholar.google.com/citations?user=QqsVx-oAAAAJ&hl=en)\]
+- Valentin Casano  
+  - \[[dblp](https://dblp.uni-trier.de/pers/hd/c/Cassano:Valentin) - 
+      [Google Scholar](https://scholar.google.com.ar/citations?user=C16YRcMAAAAJ&hl=en)\]
+- Martin Dominguez 
+  - \[[dblp](https://dblp.uni-trier.de/pers/hd/d/Dom=iacute=nguez:Mart=iacute=n_Ariel) - 
+      [Google Scholar](https://scholar.google.com/citations?user=ExBxMa4AAAAJ&hl=en)\]
+- [Raul Fervari](https://sites.google.com/view/rfervari/home) 
+  - \[[dblp](https://dblp.uni-trier.de/pers/hd/f/Fervari:Raul) - 
+      [Google Scholar](https://scholar.google.com.ar/citations?user=3dg1ASwAAAAJ&hl=en)\]
+- [Guillaume Hoffmann](https://cs.famaf.unc.edu.ar/~hoffmann/) 
+  - \[[dblp](https://dblp.uni-trier.de/pers/hd/h/Hoffmann:Guillaume) - 
+      [Google Scholar](https://scholar.google.com.ar/citations?user=d0O_hjsAAAAJ&hl=en)\]
+- [Beta Ziliani](https://people.mpi-sws.org/~beta/) 
+  - \[[dblp](https://dblp.uni-trier.de/pers/hd/z/Ziliani:Beta) - 
+      [Google Scholar](https://scholar.google.com/citations?user=zPeBksEAAAAJ&hl=en)\]
+
+
+## PhD Students ##
+
+- Facundo Bustos 
+- Marianela Morales 
+- Andres Saravia  
+- Nahuel Seiler 
+
 
 ## Main Research Areas ##
 

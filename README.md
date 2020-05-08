@@ -7,57 +7,25 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 
 ## Members ##
 
-- [Carlos Areces](https://carlosareces.github.io/) (Director) \[[dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html)\]
-- [Luciana Benotti](https://benotti.github.io/) (Co-Directrix)
-- Facundo Bustos (PhD Student)
-- Valentin Casano
-- Martin Dominguez
-- [Raul Fervari](https://sites.google.com/view/rfervari/home)
-- Guillaume Hoffmann
-- Marianela Morales (PhD Student)
-- Andres Saravia (PhD Student)
-- Nahuel Seiler (PhD Student)
-- [Beta Ziliani](https://people.mpi-sws.org/~beta/) 
+- [Carlos Areces](https://carlosareces.github.io/) (Director) 
+\[ [dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html) - 
+   [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6_iB7OAAMoF3Q_7de9gegZO3w0WcX-5b5wUWAU0i1DwETodQn0PMOCQZEkpQeTSZdGWSaF1P3-Dghrmzy90eoXP2YoWziYAb9DVrhzQzswuM6vKVs&user=Ku5jaRkAAAAJ) 
+\]
+- [Luciana Benotti](https://benotti.github.io/) (Co-Directrix) \[[dblp]() - [Google Scholar]()\]
+- Facundo Bustos (PhD Student) \[[dblp]() - [Google Scholar]()\]
+- Valentin Casano \[[dblp]() - [Google Scholar]()\]
+- Martin Dominguez \[[dblp]() - [Google Scholar]()\]
+- [Raul Fervari](https://sites.google.com/view/rfervari/home) \[[dblp]() - [Google Scholar]()\]
+- Guillaume Hoffmann \[[dblp]() - [Google Scholar]()\]
+- Marianela Morales (PhD Student) \[[dblp]() - [Google Scholar]()\]
+- Andres Saravia (PhD Student) \[[dblp]() - [Google Scholar]()\]
+- Nahuel Seiler (PhD Student) \[[dblp]() - [Google Scholar]()\]
+- [Beta Ziliani](https://people.mpi-sws.org/~beta/) \[[dblp]() - [Google Scholar]()\]
 
 ## Main Research Areas ##
 
+## Main Publications ##
+
+Most publications can be found in the respective pages of the members of the group.   
 
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/liisgroup/liisgroup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liisgroup/liisgroup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

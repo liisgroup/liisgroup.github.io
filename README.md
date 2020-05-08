@@ -9,7 +9,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 
 - [Carlos Areces](https://carlosareces.github.io/) (Director) 
   - \[[dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html) - 
-       [Google Scholar](https://scholar.google.com/citations?user=Ku5jaRkAAAAJ&hl=en) \]
+       [Google Scholar](https://scholar.google.com/citations?user=Ku5jaRkAAAAJ&hl=en)\]
 - [Luciana Benotti](https://benotti.github.io/) (Co-Directrix) 
   - \[[dblp](https://dblp.uni-trier.de/pers/hd/b/Benotti:Luciana) - 
       [Google Scholar](https://scholar.google.com/citations?user=QqsVx-oAAAAJ&hl=en)\]
@@ -39,6 +39,16 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 
 
 ## Main Research Areas ##
+
+- Automated Reasoning
+- Discourse
+- Dynamic Logics
+- Interactive Proof
+- Modal Logics
+- Planning
+- Situated Dialogue
+- Visual Dialogue
+
 
 ## Main Publications ##
 

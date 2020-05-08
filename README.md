@@ -8,8 +8,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 ## Members ##
 
 - [Carlos Areces](https://carlosareces.github.io/) (Director) 
-
-\[ [dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html) - 
+  - \[ [dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html) - 
    [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6_iB7OAAMoF3Q_7de9gegZO3w0WcX-5b5wUWAU0i1DwETodQn0PMOCQZEkpQeTSZdGWSaF1P3-Dghrmzy90eoXP2YoWziYAb9DVrhzQzswuM6vKVs&user=Ku5jaRkAAAAJ) 
 \]
 - [Luciana Benotti](https://benotti.github.io/) (Co-Directrix) \[[dblp]() - [Google Scholar]()\]

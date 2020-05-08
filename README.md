@@ -6,17 +6,20 @@ The Logics, Interaction and Intelligent Systems (LIIS) Group investigates the be
 LIIS is formed by researchers and students of the Seccion de Ciencias de la Computacion of the Facultad de Matemática, Astronomía y Física, Universidad Nacional de Córdoba en Argentina.
 
 ## Members ##
-- Carlos Areces
-- Luciana Benotti
-- Raul Fervari
-- Martin Dominguez
-- Facundo Bustos
+
+- [Carlos Areces](https://carlosareces.github.io/) (Director) \[[dblp](https://dblp.uni-trier.de/pers/a/Areces:Carlos.html)\]
+- [Luciana Benotti](https://benotti.github.io/) (Co-Directrix)
+- Facundo Bustos (PhD Student)
 - Valentin Casano
-- Marianela Morales (PhD Student)
-- Nahuel Seiler (PhD Student)
-- Andres Saravia (PhD Student)
-- Beta Ziliani 
+- Martin Dominguez
+- [Raul Fervari](https://sites.google.com/view/rfervari/home)
 - Guillaume Hoffmann
+- Marianela Morales (PhD Student)
+- Andres Saravia (PhD Student)
+- Nahuel Seiler (PhD Student)
+- [Beta Ziliani](https://people.mpi-sws.org/~beta/) 
+
+## Main Research Areas ##
 
 
 

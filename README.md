@@ -16,6 +16,9 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Valentin Cassano  
   - \[[dblp](https://dblp.uni-trier.de/pers/hd/c/Cassano:Valentin) - 
       [Google Scholar](https://scholar.google.com.ar/citations?user=C16YRcMAAAAJ&hl=en)\]
+- [Pablo F. Castro](https://pablofcastro.github.io/)
+  -\[[dblp](https://dblp.uni-trier.de/pers/c/Castro:Pablo_F=.html) - 
+      [Google Scholar](https://scholar.google.com/citations?user=Fsnu7zMAAAAJ&hl=en)\]
 - Martin Dominguez 
   - \[[dblp](https://dblp.uni-trier.de/pers/hd/d/Dom=iacute=nguez:Mart=iacute=n_Ariel) - 
       [Google Scholar](https://scholar.google.com/citations?user=ExBxMa4AAAAJ&hl=en)\]

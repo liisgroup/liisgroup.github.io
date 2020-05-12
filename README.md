@@ -19,7 +19,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Martin Dominguez 
   - \[[dblp](https://dblp.uni-trier.de/pers/hd/d/Dom=iacute=nguez:Mart=iacute=n_Ariel) - 
       [Google Scholar](https://scholar.google.com/citations?user=ExBxMa4AAAAJ&hl=en)\]
-- [Raul Fervari](https://sites.google.com/view/rfervari/home) 
+- [Raul Fervari](https://cs.famaf.unc.edu.ar/~rfervari) 
   - \[[dblp](https://dblp.uni-trier.de/pers/hd/f/Fervari:Raul) - 
       [Google Scholar](https://scholar.google.com.ar/citations?user=3dg1ASwAAAAJ&hl=en)\]
 - [Guillaume Hoffmann](https://cs.famaf.unc.edu.ar/~hoffmann/) 

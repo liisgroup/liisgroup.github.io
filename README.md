@@ -43,7 +43,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Nahuel Seiler 
 
 
-## Main Research Areas ##
+## Main Research Areas (in alphabetic order) ##
 
 - Automated Reasoning
 - Discourse

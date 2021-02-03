@@ -33,7 +33,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
       [Google Scholar](https://scholar.google.com/citations?user=zPeBksEAAAAJ&hl=en)\]
 
 
-## PosDoc Students ##
+## PosDoc Fellows ##
 
 - Facundo Bustos 
 - Mallku Soldevila Raffa

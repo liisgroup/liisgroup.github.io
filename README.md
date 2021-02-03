@@ -36,13 +36,16 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 ## PosDoc Students ##
 
 - Facundo Bustos 
+- Mallku Soldevila Raffa
 
 ## PhD Students ##
 
-- Facundo Bustos 
-- Marcos J. Gómez 
+- Danae Dutto
+- Hernan Maina
 - Mauricio Mazuecos
-- Marianela Morales 
+- Bettina Milanesio
+- Marianela Morales
+- Victoria Navarro 
 - [Andres R. Saravia](https://andresrsaravia.github.io/)  
 - Nahuel Seiler 
 

@@ -45,7 +45,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Mauricio Mazuecos
 - Bettina Milanesio
 - Marianela Morales
-- Victoria Navarro 
+- Juliana Putero 
 - [Andres R. Saravia](https://andresrsaravia.github.io/)  
 - Nahuel Seiler 
 

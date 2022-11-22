@@ -43,7 +43,7 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Felipe Areces
 - Danae Dutto
 - Hernan Maina
-- Mauricio Mazuecos
+- [Mauricio Mazuecos](https://mmazuecos.github.io/)
 - Marianela Morales
 - [Nicolás Benjamin Ocampo](https://www.benjaminocampo.com/)
 - Juliana Putero 

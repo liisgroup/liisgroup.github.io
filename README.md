@@ -35,7 +35,6 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 
 ## PosDoc Fellows ##
 
-- Facundo Bustos 
 - Mallku Soldevila
 
 ## PhD Students ##
@@ -61,6 +60,10 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Planning
 - Situated Dialogue
 - Visual Dialogue
+
+## Undergraduate Students
+
+- Julia Olcese
 
 
 ## Main Publications ##

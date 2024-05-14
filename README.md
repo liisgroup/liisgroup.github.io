@@ -48,6 +48,9 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Juliana Putero 
 - [Andres R. Saravia](https://andresrsaravia.github.io/)  
 
+## Undergraduate Students
+
+- Julia Olcese
 
 ## Main Research Areas (in alphabetic order) ##
 
@@ -60,11 +63,6 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 - Planning
 - Situated Dialogue
 - Visual Dialogue
-
-## Undergraduate Students
-
-- Julia Olcese
-
 
 ## Main Publications ##
 

@@ -41,16 +41,27 @@ LIIS is formed by researchers and students of the Seccion de Ciencias de la Comp
 
 - Felipe Areces
 - Danae Dutto
+- Guido Ivetta
+
+## Undergraduate Students ##
+
+- Antonio Mondejar
+
+## Ex-Students (in alphabetic order) ##
+
+- Facundo Bustos
+- José Doffo
 - Hernan Maina
+- Mauricio Martel
 - [Mauricio Mazuecos](https://mmazuecos.github.io/)
-- Marianela Morales
-- [Nicolás Benjamin Ocampo](https://www.benjaminocampo.com/)
-- Juliana Putero 
-- [Andres R. Saravia](https://andresrsaravia.github.io/)  
-
-## Undergraduate Students
-
+- Ezequiel Medina
+- [Nicolás Ocampo](https://www.benjaminocampo.com/)
 - Julia Olcese
+- Alejandro Orbe
+- Giovanni Rescia
+- Gisela Rossi
+- [Andres Saravia](https://andresrsaravia.github.io/)  
+- Nahuel Seiler
 
 ## Main Research Areas (in alphabetic order) ##
 
